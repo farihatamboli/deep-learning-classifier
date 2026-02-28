@@ -1,6 +1,6 @@
 # Diagnosing Diabetic Retinopathy (Binary Classification)
 
-This repo recreates a 2024 course project that trains models to detect diabetic retinopathy (DR) from retina images using the Kaggle EyePACS dataset (or a compatible resized variant).
+This repo recreates a 2023 course project that trains models to detect diabetic retinopathy (DR) from retina images using the Kaggle EyePACS dataset (or a compatible resized variant). Please read the PDF for a full overview of the project. 
 
 ## What it does
 - Loads retina images + labels (0–4)
@@ -69,4 +69,4 @@ Then ensure:
 - image folder is `data/raw/train/` (rename if needed)
 
 ## Notes
-This repository is designed as a reproducible portfolio implementation. It is intentionally written to be readable in interviews.
+This project was initially created in Feb 2023 (typo in PDF). It was enhanced using GPT-5.2 in Feb 2026.
