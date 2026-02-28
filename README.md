@@ -1,4 +1,4 @@
-# Diagnosing Diabetic Retinopathy (Binary Classification)
+# Diagnosing Diabetic Retinopathy 
 
 This repo recreates a 2023 course project that trains models to detect diabetic retinopathy (DR) from retina images using the Kaggle EyePACS dataset (or a compatible resized variant). Please read the PDF for a full overview of the project. 
 
